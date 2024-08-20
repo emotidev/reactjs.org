@@ -6532,10 +6532,10 @@ flatted@^3.0.0:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.0.5.tgz#2db8faa9fc50b48b7c4ba3d6399846538fdab9f6"
   integrity sha512-bDEpEsHk2pHn4R+slxblk0N0gK5lQsK2aRwW6LJyIpX3o9qhoVkufDjDvU3fpSJbR7UgOl+icRoR9agYyjzMTw==
 
-flow-bin@^0.56.0:
-  version "0.56.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.56.0.tgz#ce43092203a344ba9bf63c0cabe95d95145f6cad"
-  integrity sha1-zkMJIgOjRLqb9jwMq+ldlRRfbK0=
+flow-bin@^0.242.1:
+  version "0.242.1"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.242.1.tgz#e8fb8c51d4870080ab3837ca87f983017e31d7c7"
+  integrity sha512-XVTRMnpie9dwK0Ounf0gj8LiLrEgmiQGUUEfKrS8c3KID3fBbct31KKS7fTbZJaY0VdEUs7k06ipWY5H97Igcw==
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
