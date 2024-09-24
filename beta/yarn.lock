@@ -5357,13 +5357,10 @@ react-devtools-inline@4.4.0:
   dependencies:
     es6-symbol "^3"
 
-react-dom@0.0.0-experimental-cb5084d1c-20220924:
-  version "0.0.0-experimental-cb5084d1c-20220924"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-0.0.0-experimental-cb5084d1c-20220924.tgz#7a8334c5cf4baeb5651ca76fc9eb92ebbaf223bf"
-  integrity sha512-0IHzPGHESn3uu8nI1w5596GX8bCGCE94DpaHkKSGWOlB6uhoVecU0fyOCkkNuB4cMc9WeOWiH2gsM100EWZDPQ==
-  dependencies:
-    loose-envify "^1.1.0"
-    scheduler "0.0.0-experimental-cb5084d1c-20220924"
+react-dom@0.14.10:
+  version "0.14.10"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-0.14.10.tgz#da883daef7fa86838e9e2fcfcc084c590c350e21"
+  integrity sha512-kDs8SWFb8Sry4NAplhpJbZEeAnTPir/m+s9s+lkdqA2a89BzmWGnEgGG/CfmhULjv1ogc4oHrjMfAvFNruT3jQ==
 
 react-is@^16.13.1:
   version "16.13.1"
@@ -5708,13 +5705,6 @@ safe-buffer@~5.1.1:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
-
-scheduler@0.0.0-experimental-cb5084d1c-20220924:
-  version "0.0.0-experimental-cb5084d1c-20220924"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.0.0-experimental-cb5084d1c-20220924.tgz#9986680e1fbf7e4ccfe7606fef5920939d3a1abe"
-  integrity sha512-SeszKCdhM5OHxNMStjpKIAaloARUMZqIpDZjkZeGuRsyr7YlAqvlsCXyee4ZQOOU1pbr7BIvQntKy5Hil+DQJA==
-  dependencies:
-    loose-envify "^1.1.0"
 
 section-matter@^1.0.0:
   version "1.0.0"
